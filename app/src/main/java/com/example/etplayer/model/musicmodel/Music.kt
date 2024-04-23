@@ -5,6 +5,6 @@ import java.time.Duration
 data class Music(
     val title: String,
     val artist: String,
-    val album: Int,
-    val duration: Duration
+    val urlMusic: String,
+    val duration: Long
 )
