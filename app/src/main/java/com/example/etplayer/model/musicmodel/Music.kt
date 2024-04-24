@@ -1,5 +1,6 @@
 package com.example.etplayer.model.musicmodel
 
+import androidx.annotation.DrawableRes
 import java.time.Duration
 
 data class Music(
